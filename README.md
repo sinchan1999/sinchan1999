@@ -1,7 +1,7 @@
 ### Hola! I am Sinchan here!👋
 
 
-- 🔭 I’m currently working on: ... Data Science
+- 🔭 I’m currently in Final year of my B.Tech (EEE).
 - 🌱 I’m currently learning: ... Java & MERN-stack
 - 👯 I’m looking to collaborate on: ... Data Science Projects
 - 🤔 I’m looking for help with: ... Back-End development(JAVA)
