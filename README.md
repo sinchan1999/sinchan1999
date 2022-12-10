@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as Data Engineer at Tredence Inc.
-- 🌱 Completed B.Tech in Electrical and Electronics Engineering (EEE) from KIIT University, Bhubaneswar.
+- 🌱 Completed B.Tech (2018-2022) in Electrical and Electronics Engineering (EEE) from KIIT University, Bhubaneswar.
 - 👯 I’m looking to collaborate on: ... Data Science Projects 
 - 🤔 I’m looking for help with: OpenCV & NLP
 - 💬 Ask me about: ... Anything other than boring stuffs !
